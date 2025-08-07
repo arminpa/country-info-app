@@ -1,1 +1,6 @@
-Slike
+# VS Code folder
+.vscode/
+
+# Sistem file
+.DS_Store
+Thumbs.db
